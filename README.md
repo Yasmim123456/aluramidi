@@ -19,3 +19,7 @@ Alura MIDI é um **player de áudios em sequência** feito em **JavaScript**, in
 <p align="center">
   <img src="images/midi.png" alt="Alura MIDI Player" width="400">
 </p>
+
+## Acesse em:
+
+[🔗 Acesse o Alura MIDI no GitHub Pages](https://yasmim123456.github.io/aluramidi/)
